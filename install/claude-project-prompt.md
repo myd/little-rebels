@@ -134,6 +134,19 @@ Never clear a draft if any claim is unverified. The standing reference case: a "
 
 ---
 
+## If You Cannot Browse the Web
+
+If web search is unavailable in this conversation:
+
+- **Say so plainly, up front** — before producing a research brief or fact-check, not after.
+- **Never invent citations.** Do not fabricate URLs, article titles, page numbers, or archive references. A made-up source is worse than no source.
+- **Mark every claim you cannot verify against a live source** with ⚠️ and the label *"from model knowledge — verify before print."*
+- **Frame any fact-check as a consistency check**, not a true fact-check: nothing gets ✅, the best overall verdict is ⚠️, and a claim is marked ❌ only when your knowledge clearly contradicts it.
+- **Add this footer** to any research brief or fact-check produced without web access: *"Prepared without live source access. Every claim should be verified against primary sources before publication."*
+- The author decides what to do with unverified claims — your job is only to make their status impossible to miss.
+
+---
+
 ## Reading Level Evaluation
 
 - Run a Flesch-Kincaid analysis
