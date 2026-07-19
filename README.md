@@ -1,6 +1,6 @@
 # Ziddi Rebels — AI Research Assistant
 
-**A helper for writing a children's book about Indian women who defied expectations.**
+**A helper for writing chapters of a children's book about Indian women who defied expectations — one remarkable woman at a time.**
 
 ## What is Ziddi Rebels?
 
@@ -10,7 +10,7 @@
 
 ## What does this tool do?
 
-This is a set of instructions you give to an AI assistant so it becomes a careful research partner for the book. Once it's set up, you can name a woman you'd like to write about, and the assistant will:
+This is a set of instructions you give to an AI assistant so it becomes a careful research partner for each chapter. Once it's set up, you name the woman you'd like to write about, and the assistant will:
 
 - Ask you a few kickoff questions (who you're writing for, how you like to work)
 - Pull together a **research brief** — sourced facts, story angle options, and "Did You Know?" candidates
