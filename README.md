@@ -1,16 +1,18 @@
 # Ziddi Rebels — AI Research Assistant
 
-**A helper for writing chapters of a children's book about Indian women who defied expectations — one remarkable woman at a time.**
+**Ever wished a children's book had a chapter about a woman you admire? This tool helps you write it.**
 
 ## What is Ziddi Rebels?
 
-*Ziddi Rebels* is a children's book in the spirit of the *Rebel Girls* series. Each chapter is one remarkable Indian woman's two-page spread: a portrait illustration on the left, and her story — plus a few "Did You Know?" surprises — on the right. Each story centers on a moment of defiance: the choice she made when the world told her no.
+*Ziddi Rebels* is a children's book in the spirit of the *Rebel Girls* series: real Indian women who defied expectations, one woman per chapter. Each chapter is a two-page spread — her portrait on the left, and her story plus a few "Did You Know?" surprises on the right. Every story centers on a moment of defiance: the choice she made when the world told her no.
 
 **Why "ziddi"?** *Ziddi* (Hindi: ज़िद्दी, say *ZID-dee*) means stubborn — headstrong, strong-willed, immovable. It's the word Indian girls hear, half-scolding and half-proud, when they won't take no for an answer. This book reclaims it: every woman in these pages was ziddi *for all the right reasons* — stubborn about fairness, about science, about art, about other people. That idea is stitched into every story.
 
 ## What does this tool do?
 
-This is a set of instructions you give to an AI assistant so it becomes a careful research partner for each chapter. Once it's set up, you name the woman you'd like to write about, and the assistant will:
+Books like this always leave someone out. The scientist your grandmother used to tell you about. The freedom fighter from your hometown nobody outside it has heard of. The singer, the pilot, the judge — the role model you kept waiting to see on a child's bookshelf and never did.
+
+If you've ever thought *"there should be a chapter about her,"* this tool is for you. It's a set of instructions you give to an AI assistant so it becomes a careful research partner, helping you write her spread yourself — researched, fact-checked, and true. Once it's set up, you name the woman, and the assistant will:
 
 - Ask you a few kickoff questions (who you're writing for, how you like to work)
 - Pull together a **research brief** — sourced facts, story angle options, and "Did You Know?" candidates

@@ -6,7 +6,7 @@ Questions parents and teachers ask most often. If yours isn't here, the [Getting
 
 ### What is this, in one sentence?
 
-It's a set of instructions that turns an AI assistant into a careful research partner for writing chapters of *Ziddi Rebels* — a children's book about Indian women who defied expectations, one woman per chapter.
+If you've ever wished a children's book had a chapter about a certain Indian woman — a scientist, a singer, a freedom fighter you admire — this is a set of instructions that turns an AI assistant into a careful research partner, so you can write her chapter yourself for *Ziddi Rebels*.
 
 ### What does "ziddi" mean?
 
