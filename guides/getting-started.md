@@ -1,6 +1,6 @@
 # Getting Started — Your First Session
 
-This guide walks you through what a first session with the Little Rebels assistant actually looks like, from "I have an idea" to "I have a research brief and a story direction." No setup knowledge needed — if you haven't installed the assistant yet, the [README](../README.md) shows you how, in whichever AI you use.
+This guide walks you through what a first session with the Ziddi Rebels assistant actually looks like, from "I have an idea" to "I have a research brief and a story direction." No setup knowledge needed — if you haven't installed the assistant yet, the [README](../README.md) shows you how, in whichever AI you use.
 
 To make it easy to follow, we'll watch a fictional author — **Meera, a primary school teacher** — go through her first session. Your session will look very similar.
 
@@ -10,7 +10,7 @@ To make it easy to follow, we'll watch a fictional author — **Meera, a primary
 
 Meera opens a new conversation and types:
 
-> **Meera:** I'd like to write about Janaki Ammal for Little Rebels.
+> **Meera:** I'd like to write about Janaki Ammal for Ziddi Rebels.
 
 That's it. No special commands. The assistant recognizes this as the start of a new profile and — importantly — it does *not* dive into research yet. First, it needs to understand what Meera is making.
 

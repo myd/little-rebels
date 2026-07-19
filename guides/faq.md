@@ -6,7 +6,7 @@ Questions parents and teachers ask most often. If yours isn't here, the [Getting
 
 ### What is this, in one sentence?
 
-It's a set of instructions that turns an AI assistant into a careful research partner for writing *Little Rebels* — a children's book about Indian women who defied expectations.
+It's a set of instructions that turns an AI assistant into a careful research partner for writing *Ziddi Rebels* — a children's book about Indian women who defied expectations.
 
 ### Does the AI write the book?
 
@@ -32,7 +32,7 @@ You decide — per story. At the start of every session, the assistant asks who 
 
 ### Can I use this to write about women from other countries?
 
-Yes, with a small tweak. The workflow — kickoff questions, research brief, fact-check, reading level, illustration, layout — isn't India-specific at all. Just tell the assistant up front: *"I'm using the Little Rebels process, but I'm writing about a woman from Nigeria"* (or wherever). Two things to know: the suggested archives in the "Go Deeper" section are Indian institutions, so ask the assistant to suggest equivalents for your country; and the page layout ends with "BORN [DATE] · [REGION], INDIA," which you'd simply adapt.
+Yes, with a small tweak. The workflow — kickoff questions, research brief, fact-check, reading level, illustration, layout — isn't India-specific at all. Just tell the assistant up front: *"I'm using the Ziddi Rebels process, but I'm writing about a woman from Nigeria"* (or wherever). Two things to know: the suggested archives in the "Go Deeper" section are Indian institutions, so ask the assistant to suggest equivalents for your country; and the page layout ends with "BORN [DATE] · [REGION], INDIA," which you'd simply adapt.
 
 ### How reliable is the fact-checking?
 

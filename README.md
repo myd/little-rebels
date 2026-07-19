@@ -1,10 +1,10 @@
-# Little Rebels — AI Research Assistant
+# Ziddi Rebels — AI Research Assistant
 
 **A helper for writing a children's book about Indian women who defied expectations.**
 
-## What is Little Rebels?
+## What is Ziddi Rebels?
 
-*Little Rebels* is a children's book in the spirit of the *Rebel Girls* series: one remarkable Indian woman per two-page spread, with a portrait illustration on the left and her story — plus a few "Did You Know?" surprises — on the right. Each story centers on a moment of defiance: the choice she made when the world told her no.
+*Ziddi Rebels* is a children's book in the spirit of the *Rebel Girls* series: one remarkable Indian woman per two-page spread, with a portrait illustration on the left and her story — plus a few "Did You Know?" surprises — on the right. Each story centers on a moment of defiance: the choice she made when the world told her no.
 
 ## What does this tool do?
 
@@ -29,10 +29,10 @@ Pick the section below that matches the AI you use. All three versions follow th
 
 The desktop app can install this as a **skill** — a set of instructions Claude remembers and uses automatically whenever you mention the book or a woman you're profiling.
 
-1. Download [`install/little-rebels.skill`](install/little-rebels.skill) from this repository. (On GitHub, open the file and click the download button.)
+1. Download [`install/ziddi-rebels.skill`](install/ziddi-rebels.skill) from this repository. (On GitHub, open the file and click the download button.)
 2. Open the Claude desktop app.
-3. Add the downloaded `little-rebels.skill` file as a skill — you can usually do this by opening the file, or from Claude's skills/capabilities settings.
-4. Start a new conversation and say something like: *"I want to write about Janaki Ammal for Little Rebels."*
+3. Add the downloaded `ziddi-rebels.skill` file as a skill — you can usually do this by opening the file, or from Claude's skills/capabilities settings.
+4. Start a new conversation and say something like: *"I want to write about Janaki Ammal for Ziddi Rebels."*
 
 Claude will recognize the project and start the kickoff questions.
 
@@ -44,12 +44,12 @@ Claude will recognize the project and start the kickoff questions.
 
 You can set this up using a **Project** — a workspace on claude.ai where you can save standing instructions that apply to every conversation inside it.
 
-1. On [claude.ai](https://claude.ai), create a new Project (call it "Little Rebels").
+1. On [claude.ai](https://claude.ai), create a new Project (call it "Ziddi Rebels").
 2. Open the Project's **custom instructions** (sometimes labeled "Set project instructions").
 3. Copy the entire contents of [`install/claude-project-prompt.md`](install/claude-project-prompt.md) and paste it there.
 4. Save, then start a new chat inside the Project and name the woman you'd like to write about.
 
-Every conversation in that Project will now follow the Little Rebels workflow.
+Every conversation in that Project will now follow the Ziddi Rebels workflow.
 
 > Projects may not be available on every Claude plan — check Claude's current plan details at [claude.ai](https://claude.ai) if you don't see the option.
 
@@ -73,9 +73,9 @@ The assistant will follow the same workflow as the Claude versions.
 This repository is also packaged as a Claude Code plugin. In a terminal:
 
 ```
-git clone https://github.com/myd/little-rebels
-claude plugin marketplace add ./little-rebels/plugin
-claude plugin install little-rebels@little-rebels
+git clone https://github.com/myd/ziddi-rebels
+claude plugin marketplace add ./ziddi-rebels/plugin
+claude plugin install ziddi-rebels@ziddi-rebels
 ```
 
 If none of those words mean anything to you, you don't need this section — use one of the three options above.
@@ -91,7 +91,7 @@ If none of those words mean anything to you, you don't need this section — use
 
 | File | What it's for |
 |------|---------------|
-| `install/little-rebels.skill` | The installable file for Claude desktop users |
+| `install/ziddi-rebels.skill` | The installable file for Claude desktop users |
 | `install/claude-project-prompt.md` | Paste into a claude.ai Project's custom instructions |
 | `install/universal-system-prompt.md` | Paste into any AI as an opening message |
 | `guides/getting-started.md` | A friendly walk-through of your first session |
@@ -106,7 +106,7 @@ The [`evals/`](evals/) folder holds plain-language quality checklists — one ro
 
 ## A word about the stories
 
-Every profile in *Little Rebels* is fact-checked before it's finished — no claim goes in without a source. The assistant is built to be honest about what it can't verify, and to flag problems rather than quietly fix them. The words are always yours.
+Every profile in *Ziddi Rebels* is fact-checked before it's finished — no claim goes in without a source. The assistant is built to be honest about what it can't verify, and to flag problems rather than quietly fix them. The words are always yours.
 
 ## License
 

@@ -1,13 +1,13 @@
 {
-  "name": "little-rebels",
+  "name": "ziddi-rebels",
   "owner": {
     "name": "Mydhili Bayyapunedi"
   },
   "plugins": [
     {
-      "name": "little-rebels",
+      "name": "ziddi-rebels",
       "source": "./",
-      "description": "Research, fact-checking, and production assistant for Little Rebels — a children's book about Indian women who defied expectations."
+      "description": "Research, fact-checking, and production assistant for Ziddi Rebels — a children's book about Indian women who defied expectations."
     }
   ]
 }

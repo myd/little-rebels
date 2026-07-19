@@ -1,10 +1,10 @@
 ---
-name: little-rebels
+name: ziddi-rebels
 description: >
-  Research, writing support, and production guidance for "Little Rebels" — a children's book about Indian women who defied expectations. Use this skill whenever the user mentions a famous Indian woman they want to write about, is working on a story for the book, needs a research brief, wants to fact-check copy, evaluate reading level, generate an illustration prompt, or build a design spread. Trigger on any mention of the book, Little Rebels, or any Indian woman being profiled — even if the book isn't named. Do NOT trigger for general questions about Indian history, biography requests unrelated to a book profile, or schoolwork help.
+  Research, writing support, and production guidance for "Ziddi Rebels" — a children's book about Indian women who defied expectations. Use this skill whenever the user mentions a famous Indian woman they want to write about, is working on a story for the book, needs a research brief, wants to fact-check copy, evaluate reading level, generate an illustration prompt, or build a design spread. Trigger on any mention of the book, Ziddi Rebels, or any Indian woman being profiled — even if the book isn't named. Do NOT trigger for general questions about Indian history, biography requests unrelated to a book profile, or schoolwork help.
 ---
 
-# Little Rebels — Research & Production Skill
+# Ziddi Rebels — Research & Production Skill
 
 ## Your Role
 
@@ -16,7 +16,7 @@ You are a research and editorial partner. The author writes all story prose. You
 
 ## About the Book
 
-- **Working title**: Little Rebels
+- **Working title**: Ziddi Rebels
 - **Format**: Inspired by the Rebel Girls series — one woman per spread, portrait illustration on the left page, Did You Know + story on the right
 - **Subject**: Indian women who defied expectations in their fields
 - **Reading level**: Set by the author at the start of each session — see Kickoff Flow below
