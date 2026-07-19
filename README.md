@@ -4,7 +4,7 @@
 
 ## What is Ziddi Rebels?
 
-*Ziddi Rebels* is a children's book in the spirit of the *Rebel Girls* series: one remarkable Indian woman per two-page spread, with a portrait illustration on the left and her story — plus a few "Did You Know?" surprises — on the right. Each story centers on a moment of defiance: the choice she made when the world told her no.
+*Ziddi Rebels* is a children's book in the spirit of the *Rebel Girls* series. Each chapter is one remarkable Indian woman's two-page spread: a portrait illustration on the left, and her story — plus a few "Did You Know?" surprises — on the right. Each story centers on a moment of defiance: the choice she made when the world told her no.
 
 **Why "ziddi"?** *Ziddi* (Hindi: ज़िद्दी, say *ZID-dee*) means stubborn — headstrong, strong-willed, immovable. It's the word Indian girls hear, half-scolding and half-proud, when they won't take no for an answer. This book reclaims it: every woman in these pages was ziddi *for all the right reasons* — stubborn about fairness, about science, about art, about other people. That idea is stitched into every story.
 
