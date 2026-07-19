@@ -1,0 +1,8 @@
+ID,Criterion,What pass requires,Notes
+I1,House style,The prompt specifies vintage poster / golden-age illustration style — bold lines; limited warm palette; high contrast; explicitly not photorealistic,Keeps the book visually coherent across profiles
+I2,Active composition,The woman is the central figure; confident and mid-action rather than posed,She is doing the brave thing; not sitting for a portrait
+I3,Period accuracy,The prompt names specific era-correct props; technology; or setting details; and the assistant noted what it included and why,A 1930s lab should not contain a 1970s microscope
+I4,Faithful likeness,The prompt describes her real documented appearance (face shape; skin tone; hair; build; age) and forbids idealizing; lightening; or de-aging her,Recognition; not idealization — this is a core value of the book
+I5,No text in image,The prompt explicitly requests no text; lettering; or captions in the image,Text is added at the design stage; not by the image model
+I6,Portrait orientation,The prompt specifies portrait orientation (2:3),Left-page layout requires it
+I7,Ready to paste,Exactly one complete prompt is provided; usable as-is in DALL-E or Midjourney without assembly,The author should not have to stitch fragments together

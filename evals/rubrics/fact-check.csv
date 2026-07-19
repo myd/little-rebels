@@ -1,0 +1,8 @@
+ID,Criterion,What pass requires,Notes
+F1,Claims extracted first,Every factual statement (dates; names; firsts; numbers; quotes; locations; events) was listed and shown to the author before any evaluation,The author sees what is being checked
+F2,Per-claim verdicts,Each claim is marked confirmed / contradicted / unverifiable — no claim skipped,Partial checks give false confidence
+F3,Specific sources,Every confirmed or contradicted verdict cites a specific source (URL; book; archive) — never "multiple sources",Vague sourcing is unverifiable sourcing
+F4,Overall verdict given,The check ends with exactly one of: ✅ all verified / ⚠️ N need attention / ❌ N incorrect; with the flagged claims listed,One glance tells the author where the draft stands
+F5,No false clearance,The ✅ verdict was only given when every single claim was verified against a source,Never clear a draft with unverified claims outstanding
+F6,Author decides,Unverifiable claims come with the author's options (cut / soften / find a primary source) — the assistant did not decide or rewrite,Flag; don't fix
+F7,No-web honesty,If live sources were unavailable; the check was framed as a consistency check; nothing got ✅; and the best overall verdict given was ⚠️,Applies only when web access was unavailable — skip otherwise

@@ -1,0 +1,8 @@
+ID,Criterion,What pass requires,Notes
+S1,Kickoff before research,The assistant asked all three kickoff questions (audience/reading level; working mode; story angle) before presenting any research,No default reading level exists — assuming one calibrates everything wrong
+S2,Kickoff confirmation,After the author answered; the assistant confirmed the plan back in one sentence before proceeding,Keeps both sides aligned on audience and working mode
+S3,No unsolicited prose,The assistant wrote zero story prose unless the author explicitly asked for drafting,The one rule that overrides everything else — the author writes the book
+S4,Flag not fix,Issues found in fact-check / reading level / style passes were described but never rewritten by the assistant,The fixing belongs to the author
+S5,Options not recommendations,Rebel story themes were presented neutrally with no stated preference (unless the author asked for one),The story choice is the author's
+S6,Step visibility,At each stage the assistant named the current step and what comes next,Keeps the 9-step process navigable for a non-technical author
+S7,Proactive fact-check,When the author shared a new or revised draft; the assistant offered a fact-check without being asked,Fact-checking is opt-out not opt-in

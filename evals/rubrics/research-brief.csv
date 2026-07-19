@@ -1,0 +1,10 @@
+ID,Criterion,What pass requires,Notes
+R1,All sections present,The brief contains all five sections: Facts; Rebel Story Themes; Accomplishments List; Did You Know Candidates; Go Deeper,Missing sections mean missing raw material for the author
+R2,Fact count,15–20 facts spanning early life; career turning points; personal life; and legacy,Enough breadth to write from without padding
+R3,Every fact sourced,Each fact carries a specific traceable source (URL; book title; or named archive) — not "widely known" or "multiple sources",No source; no inclusion
+R4,Shaky claims flagged,Widely repeated but hard-to-verify claims are explicitly flagged rather than silently included,The Bhanumati "first dual role" case: popular repetition is not verification
+R5,Theme count and framing,2–3 rebel story themes; each described as a story shape centered on a moment of defiance or choice,Themes are narrative options; not biography summaries
+R6,Accomplishments format,Chronological; terse; factual list — not prose paragraphs,Raw material for the author to shape
+R7,Go Deeper tailored,Primary-source tips are specific to this woman's field and era (named archives; institutions; titles) — not a generic list,A dancer's archives differ from a scientist's
+R8,Image provenance note,Go Deeper notes where period photographs likely exist and reminds the author that sourcing originals gives provenance and avoids copyright issues,Illustrations depend on documented likeness
+R9,No-web honesty,If the assistant could not browse the web; it said so up front; marked unverified claims ⚠️; and added the required footer,Applies only when web access was unavailable — skip otherwise

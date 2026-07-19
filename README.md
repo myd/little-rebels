@@ -82,7 +82,12 @@ The assistant will follow the same workflow as the Claude versions.
 | `install/universal-system-prompt.md` | Paste into any AI as an opening message |
 | `guides/getting-started.md` | A friendly walk-through of your first session |
 | `guides/faq.md` | Questions parents and teachers often ask |
+| `evals/` | Quality checklists — how to tell if the assistant is doing its job well |
 | `LICENSE` | Creative Commons Attribution 4.0 — free to use and share, with credit |
+
+## How do I know it's working well?
+
+The [`evals/`](evals/) folder holds plain-language quality checklists — one row per thing that should be true about a good research brief, fact-check, or illustration prompt. Print one out and tick it off by hand, or have a second AI conversation grade the first one's work ([instructions here](evals/README.md)). If a row fails, you know exactly what to ask the assistant to redo.
 
 ## A word about the stories
 
