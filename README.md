@@ -68,6 +68,20 @@ The assistant will follow the same workflow as the Claude versions.
 
 ---
 
+### 🧑‍💻 If you use Claude Code (the developer tool)
+
+This repository is also packaged as a Claude Code plugin. In a terminal:
+
+```
+git clone https://github.com/myd/little-rebels
+claude plugin marketplace add ./little-rebels/plugin
+claude plugin install little-rebels@little-rebels
+```
+
+If none of those words mean anything to you, you don't need this section — use one of the three options above.
+
+---
+
 ## New here? Start with the guides
 
 - **[Getting Started](guides/getting-started.md)** — a walk-through of what your first session looks like, with an example from start to research brief.
@@ -83,6 +97,7 @@ The assistant will follow the same workflow as the Claude versions.
 | `guides/getting-started.md` | A friendly walk-through of your first session |
 | `guides/faq.md` | Questions parents and teachers often ask |
 | `evals/` | Quality checklists — how to tell if the assistant is doing its job well |
+| `plugin/` | The skill's source files, packaged for Claude Code (technical users) |
 | `LICENSE` | Creative Commons Attribution 4.0 — free to use and share, with credit |
 
 ## How do I know it's working well?
