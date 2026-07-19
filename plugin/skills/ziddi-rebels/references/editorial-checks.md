@@ -15,6 +15,7 @@ Read this file in full before running a reading level evaluation or style check.
 
 Flag these patterns (flag, don't fix):
 
+- **Ziddi without a why**: the story shows her being stubborn or defiant, but never shows what the stubbornness was *for*. The reader should close the page knowing why her refusal mattered — flag drafts where the purpose behind the defiance stays invisible
 - **Em-dash overuse**: more than one em-dash construction per paragraph feels cluttered
 - **CV-style claims**: "she was the first to..." or "she achieved..." read like Wikipedia, not story
 - **Clinical or abstract language**: "defense mechanism," "agency," "navigated challenges"

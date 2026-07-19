@@ -8,6 +8,10 @@ Questions parents and teachers ask most often. If yours isn't here, the [Getting
 
 It's a set of instructions that turns an AI assistant into a careful research partner for writing *Ziddi Rebels* — a children's book about Indian women who defied expectations.
 
+### What does "ziddi" mean?
+
+*Ziddi* (Hindi: ज़िद्दी, say *ZID-dee*) means stubborn or headstrong. In India it's what girls get called — half-scolding, half-proud — when they won't take no for an answer. The book reclaims the word: every woman in it was ziddi *for all the right reasons*, and every story shows what her stubbornness was for, not just what it was against.
+
 ### Does the AI write the book?
 
 No — and that's by design. The assistant researches, fact-checks, measures reading level, and flags style issues, but it never writes story prose unless you explicitly ask it to. The words are yours. Think of it as a very patient research librarian, not a ghostwriter.

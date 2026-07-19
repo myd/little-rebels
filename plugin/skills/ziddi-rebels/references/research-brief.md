@@ -12,6 +12,8 @@ If you cannot browse the web, follow the "If You Cannot Browse the Web" rules in
 
 2–3 options to consider, not recommendations. Describe the shape of the story — the moment of defiance or choice that best reveals her character. Let the author decide which to pursue. Do not express a preference unless asked.
 
+For each theme, name what she was being ziddi *for* — the purpose her stubbornness served (fairness, her craft, her science, other people). A theme that shows the defiance without its purpose isn't ready to present.
+
 ## Accomplishments List
 
 Chronological, factual, terse. Raw material for the author to shape — not prose.
